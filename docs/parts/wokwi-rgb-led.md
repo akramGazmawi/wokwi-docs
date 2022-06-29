@@ -22,7 +22,7 @@ sidebar_label: wokwi-rgb-led
 
 | Name   | Description                               | Default value |
 | ------ | ----------------------------------------- | ------------- |
-| common | The common pin type: "cathode" or "anode" | "anode"       |
+| common | The common pin type: "cathode" or "anode" | "cathode"       |
 
 ## Simulator examples
 
